@@ -1,0 +1,8 @@
+body{
+    background-color: antiquewhite;
+}
+img{
+    width: 200px;
+    left: 20px;
+    position: relative;
+}
